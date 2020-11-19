@@ -72,8 +72,6 @@
 
       4.指定图表的配置项和数据（option）
 
-        ![image-20201118200734157](C:\Users\Gzf\Desktop\个人文件\前端学习\image-20201118200734157.png)
-
       5.将配置项设置给Echarts实例对象
 
         `myChart.setOptio(option)`
